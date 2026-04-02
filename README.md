@@ -1,2 +1,2 @@
 # granby-budget
-notebooks for making benchmarking materials
+notebooks for making benchmarking materials for town budget discussions
