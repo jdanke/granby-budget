@@ -12,3 +12,5 @@ Plots are mostly separate flows set up to compare Granby to different benchmark 
 - `income and budget plots` use the IRS income & Fiscal Indicators data to benchmark general town spending.
 - `education-functional-spending` mostly focuses on inflation-adjusted spending by type of expenditure.
 - `education-plots` mostly focuses on enrollment, staffing and academic performance analysis (sometimes costs). 
+
+Data are tossed onto a [Google Drive Folder](https://drive.google.com/drive/folders/1kNr38VIyWgPbzP17IxpfYk_UuiK4pLYJ?usp=drive_link)
